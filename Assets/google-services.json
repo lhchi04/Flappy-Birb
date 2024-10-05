@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "964508039639",
+    "firebase_url": "https://flappy-bird-64fa7-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "flappy-bird-64fa7",
+    "storage_bucket": "flappy-bird-64fa7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964508039639:android:8437e36862fd632b6e3392",
+        "android_client_info": {
+          "package_name": "com.flappybird.firebasedb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfGQO_y3CwnjOmDXbfCq_8jE6Jq9v6iek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
