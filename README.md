@@ -9,6 +9,11 @@ This project is a recreation of the popular Flappy Bird game, developed using **
 - **Leaderboard**: The game uses Firebase Realtime Database to store and retrieve player scores, updating the leaderboard in real-time.
 
 ## Screenshots
+![Main Page](./Screenshot/1.png)
+![Game](./Screenshot/2.png)
+![Game Over Screen](./Screenshot/3.png)
+![Leaderboard](./Screenshot/4.png)
+![User](./Screenshot/5.png)
 
 ## Technologies Used
 
